@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="22dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="最初的时候，研发团队希望阿特柔斯只在游戏里的特定地点出现，并且只负责对话，这样项目可以更快地完成，游戏就能更早发布，他说，“有时候我甚至听到建议说，完全砍掉这个角色，我笑着说好，但他们随后就又收回了建议，然后让我认真考虑，说我们的制作团队人手不够。所以我就不得不考虑如果没有这个角色，游戏会是什么样，但很明显行不通，最后只好跟他们解释这个角色的必要性”"
+            android:textSize="16sp"
+
+            />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/zhanshen"
+            android:layout_marginTop="22dp"
+            />
+
+
+
+
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

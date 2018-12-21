@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UKLoadingConstraintLayout">
+        <attr name="titileColor" format="color" />
+        <attr name="contentColor" format="color" />
+        <attr name="btnTxtColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="UKTopBarLayout">
+        <attr name="showSmallTitle" format="boolean" />
+
+    </declare-styleable>
+
+</resources>
